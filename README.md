@@ -103,13 +103,15 @@ Event added successfully!
 ### Viewing Events
 
 ```plaintext
-ID  | Name    | Event Name      | Description              | Date       
-----|---------|-----------------|--------------------------|------------
- 9  | Alice   | Team Meeting    | Monthly team discussion  | 2024-12-01
- 10 | Bob     | Workshop        | Technical workshop on Java | 2024-12-10
- 11 | Charlie | Community Cleanup | Promoting environmental responsibility | 2025-01-01
- 12 | Dylan   | Nicole and Cole Wedding | Union of two souls | 2025-05-08
- 13 | Ella    | Holy Rosary Prayer | Prayers and intentions | 2025-12-08
+| Event ID | Name         | Event Title            | Description                          | Date       |
+|----------|--------------|------------------------|--------------------------------------|------------|
+| 9        | Alice        | Team Meeting          | Monthly team discussion             | 2024-12-01 |
+| 11       | Charlie      | Community Cleanup     | Promoting environmental responsibility | 2025-01-01 |
+| 12       | Dylan        | Nicole and Cole Wedding | Union of two souls                  | 2025-05-08 |
+| 13       | Ella         | Holy Rosary Prayer    | Prayers and intentions               | 2025-12-08 |
+| 14       | John Doe     | Graduation Party      | A party                              | 2025-06-15 |
+| 15       | John         | Graduation Party      | A party                              | 2025-06-15 |
+| 16       | Nicole       | Meeting               | Ao office meeting                    | 2024-12-30 |
 ```
 
 ### Deleting an Event
